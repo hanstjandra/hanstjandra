@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi, I'm **Hans** — a student at **Binus ASO School of Engineering**, currently pursuing a **Bachelor’s degree in Automotive and Robotics Engineering**.
+Hi, I'm **Hans** — a student at **Binus ASO School of Engineering**, currently pursuing a **Bachelor’s degree in Automotive Robotics Engineering**.
 
 🚀 I'm passionate about learning **Robotics**, **IoT**, and all things **3D** — from design to printing. I'm also eager to deepen my knowledge in **ROS (Robot Operating System)** and **machine learning for Robotics**.
 
